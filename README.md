@@ -92,7 +92,11 @@ Here are some screenshots from running the application:
 
 ## Optimize the model
 
-![Optimize the model](images/6.png)
+![Optimize the model](images/11.png)
+![Optimize the model](images/12.png)
+![Optimize the model](images/13.png)
+![Optimize the model](images/14.png)
+![Optimize the model](images/15.png)
 
 
 
