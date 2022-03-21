@@ -75,23 +75,25 @@ Here are some screenshots from running the application:
 
 ![Import the Data](images/1.png)
 
-## Split the Data into Training and Testing Sets
+## Preprocess data for a neural network model
 
-![Split the Data into Training and Testing Sets](images/2.png)
-![Split the Data into Training and Testing Sets](images/3.png)
+![Preprocess data for a neural network model](images/2.png)
+![Preprocess data for a neural network model](images/3.png)
+![Preprocess data for a neural network model](images/4.png)
+![Preprocess data for a neural network model](images/5.png)
+![Preprocess data for a neural network model](images/6.png)
+![Preprocess data for a neural network model](images/7.png)
 
-## Create a Logistic Regression Model with the Original Data
+## Use the model-fit-predict pattern to compile and evaluate a binary classification model
 
-![Create a Logistic Regression Model with the Original Data](images/4.png)
-![Create a Logistic Regression Model with the Original Data](images/5.png)
+![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/8.png)
+![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/9.png)
+![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/10.png)
 
-## Predict a Logistic Regression Model with Resampled Training Data
+## Optimize the model
 
-![Predict a Logistic Regression Model with Resampled Training Data](images/6.png)
+![Optimize the model](images/6.png)
 
-## Write a Credit Risk Analysis Report
-
-![Write a Credit Risk Analysis Report](images/7.png)
 
 
 ---
