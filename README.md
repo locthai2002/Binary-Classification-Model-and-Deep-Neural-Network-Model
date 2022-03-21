@@ -6,9 +6,9 @@ Specifically, the business team has given you a CSV file containing more than 34
 The steps for this project are divided into the following sections:
 
 1. Import the Data 
-2. Preprocess data for a neural network model.
-3. Use the model-fit-predict pattern to compile and evaluate a binary classification model.
-4. Optimize the model.
+2. Preprocess data for a neural network model
+3. Use the model-fit-predict pattern to compile and evaluate a binary classification model
+4. Optimize the model
 
 
 ---
@@ -22,15 +22,14 @@ This project leverages Anaconda and JupyterLab with Python 3.9:
 Need to import the following libraries and dependencies:
 
 ```
-import numpy as np
 import pandas as pd
 from pathlib import Path
-from sklearn.metrics import balanced_accuracy_score
-from sklearn.metrics import confusion_matrix
-from imblearn.metrics import classification_report_imbalanced
+import tensorflow as tf
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.models import Sequential
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
-import warnings
-warnings.filterwarnings('ignore')
 ```
 
 ---
@@ -53,16 +52,12 @@ Open a terminal window, and then activate your ```dev``` virtual environment by 
 ```
 conda activate dev 
 ```
-Install imbalance-learn by running the following command:
+Install TensorFlow by running the following command:
 
 ```
-conda install -c conda-forge imbalanced-learn 
+pip install --upgrade tensorflow
 ```
-Install PyDotPlus by running the following command:
 
-```
-conda install -c conda-forge pydotplus
-```
 ---
 
 ## Usage
@@ -70,7 +65,7 @@ conda install -c conda-forge pydotplus
 You will need to clone the repo so that you can run the application:
 
 ```
- https://github.com/locthai2002/Credit-Risk-Resampling.git
+ https://github.com/locthai2002/Binary-Classification-Model-and-Deep-Neural-Network-Model.git
 
 ```
 
