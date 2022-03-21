@@ -71,11 +71,11 @@ You will need to clone the repo so that you can run the application:
 
 Here are some screenshots from running the application:
 
-## Import the Data
+## **Import the Data**
 
 ![Import the Data](images/1.png)
 
-## Preprocess data for a neural network model
+## **Preprocess data for a neural network model**
 
 ![Preprocess data for a neural network model](images/2.png)
 ![Preprocess data for a neural network model](images/3.png)
@@ -84,13 +84,13 @@ Here are some screenshots from running the application:
 ![Preprocess data for a neural network model](images/6.png)
 ![Preprocess data for a neural network model](images/7.png)
 
-## Use the model-fit-predict pattern to compile and evaluate a binary classification model
+## **Use the model-fit-predict pattern to compile and evaluate a binary classification model**
 
 ![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/8.png)
 ![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/9.png)
 ![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/10.png)
 
-## Optimize the model
+## **Optimize the model**
 
 ![Optimize the model](images/11.png)
 ![Optimize the model](images/12.png)
